@@ -19,7 +19,7 @@ Main topics include:
 - Classes, objects, methods, and properties
 - File handling
 
-## Problem Set Mapping (Official)
+## Problem Set Mapping
 
 ### Problem Set 0
 
