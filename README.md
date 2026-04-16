@@ -17,7 +17,7 @@ Main topics include:
 - Third-party libraries
 - Regular expressions
 - Classes, objects, methods, and properties
-- File input/output
+- File handling
 
 ## Problem Set Mapping (Official)
 
@@ -106,7 +106,6 @@ The final project is a Python script that scrapes job listings from the Wuzzuf w
 
 #### Requirements
 
-- Python 3.x
 - `pandas`
 - `requests`
 - `beautifulsoup4`
@@ -131,9 +130,8 @@ pytest test_project.py
 
 ## Certificate
 
-My course completion certificate image is included here:
+My course completion certificate is included here:
 
-- [`CS50 Certificate/CS50P.png`](./CS50%20Certificate/CS50P.png)
 
 ![CS50P Certificate](./CS50%20Certificate/CS50P.png)
 
