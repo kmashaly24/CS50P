@@ -130,7 +130,7 @@ pytest test_project.py
 
 ## Certificate
 
-My course completion certificate is included here:
+My course completion certificate:
 
 
 ![CS50P Certificate](./CS50%20Certificate/CS50P.png)
